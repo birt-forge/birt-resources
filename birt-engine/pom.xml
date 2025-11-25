@@ -25,5 +25,29 @@
             <artifactId>assertj-core</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.birt</groupId>
+            <artifactId>org.eclipse.birt.report.engine</artifactId>
+            <version>4.21.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.birt</groupId>
+            <artifactId>org.eclipse.birt.report.engine.script.javascript</artifactId>
+            <version>4.21.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.birt</groupId>
+            <artifactId>org.eclipse.birt.report.engine.emitter.pdf</artifactId>
+            <version>4.21.0</version>
+        </dependency>
     </dependencies>
+
 </project>
