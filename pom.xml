@@ -13,6 +13,9 @@
 
     <modules>
         <module>birt-engine</module>
+        <module>sample-application</module>
+        <module>birt-spring-boot</module>
+        <module>birt-spring-boot-starter</module>
     </modules>
 
     <properties>
